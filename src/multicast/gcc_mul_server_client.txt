@@ -1,0 +1,4 @@
+gcc -ansi -pedantic -std=gnu99  mul_server.c -o mul_server.out
+
+
+gcc -ansi -pedantic -std=gnu99  mul_client.c -o mul_client.out
